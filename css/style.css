@@ -1,0 +1,27 @@
+.jumbotron {
+                 background-color:transparent !important;
+                 font-family: 'Ubuntu', sans-serif; 
+                 background: red;
+                 background: linear-gradient(#2F80ED, #2F80ED);
+                 color: white;
+            }
+            .table {
+                font-family: 'Calibri', sans-serif;
+                table-layout: fixed;
+                border-top-color: #428BCA;
+            }
+            .table td {
+                overflow-x: auto;
+            }
+            .table thead th {
+                background-color: #428BCA;
+                border-color: #428BCA !important;
+                color: #FFF;
+            }
+            .info-column {
+                width: 120px;
+            }
+            .frags-column {
+                width: 80px;
+            }
+            
